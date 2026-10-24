@@ -1,1 +1,1 @@
-"# Data alalytics basics: laboratory works" 
+Data alalytics basics: laboratory works 
