@@ -1,7 +1,5 @@
-"Основи анал?тики даних: лабораторн? роботи" 
-
 Data alalytics basics: laboratory works 
-Laboratory works for the course "╨Ю╤Б╨╜╨╛╨▓╨╕ ╨░╨╜╨░╨╗╤Ц╤В╨╕╨║╨╕ ╨┤╨░╨╜╨╕╤Е" (Fundamentals of Data Analytics).
+Laboratory works for the course "Data alalytics basics".
 
 Structure
  `lab1/` - Lab 1: Introduction to data analytics and Google Colab
