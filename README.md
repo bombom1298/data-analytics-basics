@@ -1,1 +1,1 @@
-"# Data alalytics basics: laboratory works" 
+"Основи анал?тики даних: лабораторн? роботи" 
