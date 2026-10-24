@@ -19,3 +19,14 @@ Dataset: coffee vending machine sales (`index_1.csv`).
 
 Tools: Python, Google Colab, pandas, NumPy.
 
+Lab 2
+Topic: Pandas: working with tables.
+
+   What was done:
+   - Created a DataFrame from a dictionary
+   - Indexing with `loc` and `iloc`
+   - Filtering with boolean masks and combined conditions
+   - Sorting with `sort_values()`
+   - Wrote a function that counts records per category and saved the result to CSV
+
+   Dataset: coffee vending machine sales (`index_1.csv`).
