@@ -45,3 +45,17 @@ Structure
 - Wrote a `clean_dataset()` function that cleans a DataFrame in one call
 
 **Dataset:** coffee vending machine sales (`index_1.csv`).
+
+
+## Lab 4
+
+**Topic:** Aggregation and grouping.
+
+**What was done:**
+- Grouping with `groupby()` and aggregation with `agg()`
+- Pivot tables and cross-tabulations
+- Merging data with `merge()`, `concat()` and `join()`
+- Computed analytical indicators (revenue share per product)
+- Extra task: built a custom two-table dataset, merged it, grouped it and saved results to `lab4/results/`
+
+**Dataset:** coffee vending machine sales (`index_1.csv`).
